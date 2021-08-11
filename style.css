@@ -118,6 +118,11 @@ nav ul li {
   margin: 15px 30px;
 }
 
+/* ANIMATION SVG*/
+.content .social-media svg:hover {
+  transform: translateY(-15px);
+}
+
 .pre-order {
   background: #F85A26;
   padding: 15px;
