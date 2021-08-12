@@ -3,7 +3,7 @@
  
  O projeto consiste em uma tela inicial do website de uma loja, e nessa página o cliente pode enteragir com os elementos presentes na tela.
 
-##Desktop view
+## Desktop view
 
 ![enter image description here](https://github.com/viniciusmarquezaninelo/webshop/blob/main/assets/gif.gif?raw=true)
 
