@@ -1,6 +1,9 @@
 # webshop
+ Project carried out with the aim of studying HTML and CSS.
+ The project consists of an initial screen of a store's website, and on this page the customer can interact with the elements present on the screen.
+
+
  Projeto realizado com o objetivo de estudar HTML e CSS.
- 
  O projeto consiste em uma tela inicial do website de uma loja, e nessa página o cliente pode enteragir com os elementos presentes na tela.
 
 ## Desktop view
