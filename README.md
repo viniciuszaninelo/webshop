@@ -11,6 +11,8 @@
 ![enter image description here](https://github.com/viniciusmarquezaninelo/webshop/blob/main/assets/gif.gif?raw=true)
 
 ### Prerequisites
+Just with the visual studio code installed on your desktop, you'll be able to carry out the project.<br />
+
 Apenas com o visual studio code instalado em seu desktop, você já consegue realizar o projeto.
 
 ## Built with 
@@ -22,3 +24,6 @@ Vinícius Marques Zaninelo - [Linkedin](https://www.linkedin.com/in/vin%C3%ADciu
 
 ## Acknowledgment
 Projeto realizado com as aulas da [isastangarlin](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/featured) durante vídeo aula postada em seu canal.
+
+Project carried out with the classes of [isastangarlin](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/featured) during video lesson posted on your channel.
+
